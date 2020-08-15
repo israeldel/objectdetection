@@ -1,0 +1,6 @@
+classes=8
+train=data_bin/train.txt
+valid=data_bin/test.txt
+names=data_bin/wasteobj.names
+backup=backup_bin/
+eval=coco
